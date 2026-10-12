@@ -64,7 +64,7 @@ Open **Settings → Community plugins → Browse** in Obsidian, then search for 
 
 - 微信：`zack6116`
 - 公众号：**Zack说AI**
-- X (Twitter)：[@kaiz_amm](https://x.com/kaiz_amm)
+- X (Twitter)：[@zack6116](https://x.com/zack6116)
 
 飞书项目交流群正在筹备，建成后会在此 README 和项目发布页补充正式入口。
 
@@ -72,7 +72,7 @@ For feedback, feature discussions, or AI-tool conversation:
 
 - WeChat: `zack6116`
 - WeChat Official Account: **Zack说AI**
-- X (Twitter): [@kaiz_amm](https://x.com/kaiz_amm)
+- X (Twitter): [@zack6116](https://x.com/zack6116)
 
 The Feishu project group is being prepared. Its official entry point will be added here and on the release page when available.
 
